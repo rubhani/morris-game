@@ -1,0 +1,3 @@
+program position: BxBWWxBWWBxxWBWWxBBxx
+Positions evaluated by static estimation: 832
+MINIMAX estimate: -1012.0
